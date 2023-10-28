@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "imgur.client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'imgur.client.id'"
+  },
+  {
+    "name": "imgur.client.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'imgur.client.secret'"
+  }
+]}
